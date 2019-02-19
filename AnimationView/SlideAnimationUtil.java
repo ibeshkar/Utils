@@ -10,8 +10,6 @@ import android.content.Context;
 import android.view.View;
 import android.view.animation.AnimationUtils;
 
-import ir.yana.banki.R;
-
 public class SlideAnimationUtil {
 
     /**
